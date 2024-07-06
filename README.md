@@ -35,12 +35,11 @@ Este projeto implementa um aplicativo CRUD (Create, Read, Update, Delete) usando
    - Clique no botão "UPGRADE" para atualizar a `CTkListbox` com os itens mais recentes do banco de dados.
 
 ## EXECUTANDO ESSE PROJETO:
-1. **Instalação de Dependências:**
-   - Certifique-se de ter o Python 3.12 ou superior instalado.
-   - Instale o CustomTkinter e CTkListbox se ainda não estiverem instalados:
+1. **Instalação das Dependências::**
+   - Entre no diretório `CODIGO` e execute o comando:
+
    ```bash
-   pip install customtkinter
-   pip install CTkListbox
+   pip install -r requirements.txt
    ```
 
 2. **Execução do Aplicativo:**
