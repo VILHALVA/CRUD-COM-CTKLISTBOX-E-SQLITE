@@ -1,3 +1,2 @@
 customtkinter
 CTkListbox
-sqlite3
